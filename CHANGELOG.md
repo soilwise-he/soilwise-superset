@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/soilwise-he/soilwise-superset/compare/v1.0.0...v1.0.1) (2026-03-31)
+
+
+### Bug Fixes
+
+* install psycopg2-binary using correct Python version for superset ([69d6fa9](https://github.com/soilwise-he/soilwise-superset/commit/69d6fa9cdc683c76be803a5e4e22049768cf99e7))
+
 ## 1.0.0 (2026-03-30)
 
 
