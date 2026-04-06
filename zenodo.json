@@ -1,0 +1,49 @@
+{
+  "title": "SoilWise-he Data and Knowledge Administration Console",
+  "description": "<p>This repository contains the Data and Knowledge Administration Console component of the SoilWise Repository (SWR). It integrates Apache Superset with Keycloak to provide a secure, role-based dashboard environment for authorised users of the SoilWise Repository (SWR).",
+  "access_right": "open",
+  "license": "MIT",
+  "publication_date": "2025-03-01",
+  "version": "1.1.4",
+  "keywords": [
+    "user management",
+    "dashboard",
+    "containerised",
+    "kubernetes",
+    "Superset",
+    "Keycloak",
+    "SoilWise"
+  ],
+  "creators": [
+    {
+      "name": "Gkoles, Vasilis",
+      "affiliation": "Neuropublic S.A."
+    },
+    {
+      "name": "Dajana, Snopková",
+      "affiliation": "Masaryk University"
+    },
+    {
+      "name": "Simon, Templer",
+      "affiliation": "Wetransform GmbH"
+    }
+  ],
+  "grants": [
+    {
+      "id": "101112838"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "soilwise-he"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/soilwise-he/summary-dashboard.git",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "language": "eng"
+}
