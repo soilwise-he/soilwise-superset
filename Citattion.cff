@@ -1,0 +1,28 @@
+
+cff-version: 1.2.0
+title: SoilWise-he  Data and Knowledge Administration Console
+abstract: A component of the SoilWise Repository that integrates Apache Superset with Keycloak to provide a secure, role-based dashboard environment for authorised users of the SoilWise Repository (SWR).",
+version: 1.1.4
+date-released: 2026-03-16
+authors:
+  - given-names: Vasilis
+    family-names: Gkoles
+    affiliation: Neuropublic S.A.
+  - given-names: Dajana 
+    family-names: Snopková
+    affiliation: Masaryk University
+  - given-names: Simon
+    family-names: Templer
+    affiliation: Wetransform GmbH
+repository-code: https://github.com/soilwise-he/summary-dashboard.git
+keywords:
+  - user management
+  - dashboard
+  - containerised
+  - kubernetes
+  - Superset
+  - Keycloak
+  - SoilWise
+funding:
+  - name: European Union HORIZON Innovation Actions 2022
+    grant-number: "101112838"
