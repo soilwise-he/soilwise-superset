@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1173274131.svg)](https://doi.org/10.5281/zenodo.19567030)
+
 # Data and Knowledge Administration Console
 
 The SoilWise-he project aims to develop an open access knowledge and data metadata catalogue to safeguard soils. This repository contains the configuration of the **Data and Knowledge Administration Console**, which integrates [Apache Superset](https://superset.apache.org/) with [Keycloak](https://www.keycloak.org/) to provide a secure, role-based dashboard environment for authorised users of the SoilWise Repository (SWR).
